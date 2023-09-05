@@ -1,3 +1,4 @@
 .venv
 server/.pytest_cache
+.vscode
 # server/instance
